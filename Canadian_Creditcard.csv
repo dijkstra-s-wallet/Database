@@ -1,0 +1,64 @@
+Issuer,Name of Card,Personal,Business,Amex,MasterCard,Visa,Rewards,Charge/Credit,Sign-Up Bonus,Annual Fee,First Year Free?,Annual Fee Cost,Sign-Up Bonus,Date Last  Updated
+AMEX,Cobalt,1,0,1,0,0,Membership Rewards Select,Credit,"30,000",1,0,$120 ,"30,000",2002-12-18
+AMEX,Gold Rewards,1,0,1,0,0,Membership Rewards,Charge,"25,000",1,0,$150 ,"25,000",2002-12-18
+AMEX,Starwoods Preferred Guest,1,0,1,0,0,Cashback,Credit,100,1,0,$120 ,100,4/17/18
+AMEX,Business Platinum,0,1,1,0,0,Membership Rewards,Charge,"60,000",1,0,$499 ,"60,000",2/15/18
+AMEX,Starwoods Preferred Guest Business,0,1,1,0,0,Cashback,Credit,100,1,0,$150 ,100,4/17/18
+AMEX,Blue Sky,1,0,1,0,0,Blue Sky,Credit,"10,000",0,1,$0 ,"10,000",2002-12-18
+AMEX,Air Miles,1,0,1,0,0,Air Miles,Credit,500,0,1,$0 ,500,2002-12-18
+AMEX,SimplyCash,1,0,1,0,0,Cashback,Credit,0,0,1,$0 ,0,2002-12-18
+AMEX,AeroplanPlus Gold,1,0,1,0,0,Aeroplan,Charge,"15,000",1,0,$120 ,"15,000",2002-12-18
+AMEX,Air Miles Gold Business,0,1,1,0,0,Air Miles,Credit,150,0,1,$0 ,150,2002-12-18
+AMEX,Platinum,1,0,1,0,0,Membership Rewards,Charge,"60,000",1,0,$699 ,"60,000",2002-12-18
+AMEX,AeroplanPlus ,1,0,1,0,0,Aeroplan,Charge,"5,000",1,0,$60 ,"5,000",2002-12-18
+AMEX,AeroplanPlus Platinum,1,0,1,0,0,Aeroplan,Charge,"40,000",1,0,$499 ,"40,000",2002-12-18
+AMEX,AeroplanPlus Reserve,1,0,1,0,0,Aeroplan,Charge,"50,000",1,0,$899 ,"50,000",2002-12-18
+AMEX,Air Miles Platinum,1,0,1,0,0,Air Miles,Credit,"2,000",1,0,$65 ,"2,000",2002-12-18
+AMEX,Air Miles for Business,0,1,1,0,0,Air Miles,Credit,"2,000",1,0,$180 ,"2,000",2002-12-18
+AMEX,Air Miles Reserve,1,0,1,0,0,Air Miles,Credit,"2,400",1,0,$299 ,"2,400",2002-12-18
+AMEX,Business Gold Rewards,0,1,1,0,0,Membership Rewards,Charge,"40,000",1,1,$250 ,"40,000",2002-12-18
+AMEX,SimplyCash Preferred,1,0,1,0,0,Cashback,Credit,0,1,0,$99 ,0,2002-12-18
+BMO,Air Miles,1,0,0,1,0,Air Miles,Credit,500,0,1,$0 ,500,2002-12-18
+BMO,CashBack,1,0,0,1,0,Cashback,Credit,0,0,1,$0 ,0,2002-12-18
+BMO,Air Miles 0 Fee,0,1,0,1,0,Air Miles,Credit,500,0,1,$0 ,500,2002-12-18
+BMO,CashBack Business,0,1,0,1,0,Cashback,Credit,0,0,1,$0 ,0,2002-12-18
+BMO,CashBack World Elite,1,0,0,1,0,Cashback,Credit,0,1,0,$120 ,0,2002-12-18
+CIBC,Aero Platinum,1,0,0,0,1,Aeroplan,Credit,"5,000",1,0,$39 ,"5,000",2002-12-18
+CIBC,Aerogold Infinite,1,0,0,0,1,Aeroplan,Credit,"15,000",1,0,$120 ,"15,000",2002-12-18
+CIBC,Aerogold Business,0,1,0,0,1,Aeroplan,Credit,"30,000",1,1,$180 ,"30,000",2002-12-18
+CIBC,Aventura,1,0,0,0,1,Aventura,Credit,"2,500",0,1,$0 ,"2,500",2002-12-18
+RBC,British Airways Infinite,1,0,0,0,1,Avios,Credit,"50,000",1,0,$165 ,"50,000",2002-12-18
+RBC,Avion Platinum Business,0,1,0,0,1,Avion,Credit,"20,000",1,0,$120 ,"20,000",2002-12-18
+RBC,Avion Platinum,1,0,0,0,1,Avion,Credit,"15,000",1,0,$120 ,"15,000",2002-12-18
+RBC,Avion Infinite,1,0,0,0,1,Avion,Credit,"25,000",1,1,$120 ,"25,000",2/20/18
+RBC,Cathay Pacific Platinum,1,0,0,0,1,Asia Miles,Credit,"15,000",1,0,$120 ,"15,000",2002-12-18
+RBC,Avion Infinite Privilege,1,0,0,0,1,Avion,Credit,"25,000",1,0,$399 ,"25,000",2002-12-18
+RBC,WestJet World Elite,1,0,0,1,0,WestJet Dollars,Credit,250,1,0,$119 ,250,2002-12-18
+RBC,WestJet ,1,0,0,1,0,WestJet Dollars,Credit,50,1,0,$39 ,50,2002-12-18
+RBC,Cash Back,1,0,0,1,0,Cashback,Credit,0,0,1,$0 ,0,2002-12-18
+RBC,Cash Back Business,0,1,0,1,0,Cashback,Credit,0,0,1,$0 ,0,2002-12-18
+RBC,Cash Back Preferred World Elite,1,0,0,0,1,Cashback,Credit,0,1,0,$99 ,0,2002-12-18
+RBC,Rewards+,1,0,0,0,1,RBC Rewards,Credit,"3,500",0,1,$0 ,"3,500",2/15/18
+Scotiabank,Passport  Infinite,1,0,0,0,1,Scotia Rewards,Credit,"25,000",1,0,$139 ,"25,000",3/30/18
+Scotiabank,Passport Business,0,1,0,0,1,Scotia Rewards,Credit,"30,000",1,0,$120 ,"30,000",2002-12-18
+Scotiabank,Platinum,1,0,1,0,0,Scotia Rewards,Credit,"30,000",1,0,$399 ,"30,000",2002-12-18
+Scotiabank,Passport,1,0,0,0,1,Scotia Rewards,Credit,"5,000",1,0,$110 ,"5,000",2002-12-18
+Scotiabank,More Rewards,1,0,0,0,1,More Rewards,Credit,"15,000",0,1,$0 ,"15,000",2002-12-18
+Scotiabank,American Express,1,0,1,0,0,Scotia Rewards,Credit,"5,000",0,1,$0 ,"5,000",2002-12-18
+Scotiabank,Scene,1,0,0,0,1,Scene Points,Credit,"2,000",0,1,$0 ,"2,000",2002-12-18
+Scotiabank,Momentum,1,0,0,0,1,Cashback,Credit,0,0,1,$0 ,0,2002-12-18
+Scotiabank,Momentum,1,0,0,1,0,Cashback,Credit,0,0,1,$0 ,0,2002-12-18
+Scotiabank,Gold,1,0,1,0,0,Scotia Rewards,Credit,"25,000",1,1,$99 ,"25,000",2002-12-18
+Scotiabank,Momentum Infinite,1,0,0,0,1,Cashback,Credit,0,1,1,$99 ,0,2002-12-18
+Scotiabank,Momentum Business,0,1,0,0,1,Cashback,Credit,0,1,0,$49 ,0,2002-12-18
+TD,Business Travel ,0,1,0,0,1,TD Travel Rewards,Credit,"30,000",1,0,$149 ,"30,000",2002-12-18
+TD,Platinum Travel,1,0,0,0,1,TD Travel Rewards,Credit,"15,000",1,0,$89 ,"15,000",2002-12-18
+TD,Aeroplan Visa Business,0,1,0,0,1,Aeroplan,Credit,"20,000",1,0,$149 ,"20,000",2002-12-18
+TD,Aeroplan Visa Infinite,1,0,0,0,1,Aeroplan,Credit,"15,000",1,0,$120 ,"15,000",2002-12-18
+TD,Aeroplan Visa Platinum,1,0,0,0,1,Aeroplan,Credit,"10,000",1,0,$89 ,"10,000",2002-12-18
+TD,Aeroplan Visa Infinite Privilege,1,0,0,0,1,Aeroplan,Credit,"25,000",1,0,$399 ,"25,000",2002-12-18
+TD,Cash Back ,1,0,0,0,1,Cashback,Credit,0,0,1,$0 ,0,2002-12-18
+TD,Cash Back Infinite,1,0,0,0,1,Cashback,Credit,0,1,0,$120 ,0,2002-12-18
+Capital One,Aspire Cash Platinum,1,0,0,1,0,Cashback,Credit,0,0,1,$0 ,0,2/18/18
+Capital One,Travel Platinum,1,0,0,1,0,Aspire,Credit,"10,000",0,1,$0 ,"10,000",2/18/18
+Capital One,Platinum,1,0,0,1,0,Cashback,Credit,0,0,1,$0 ,0,2/18/18
