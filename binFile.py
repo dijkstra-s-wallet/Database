@@ -5,7 +5,18 @@ import numpy as np
 
 df = pd.read_csv('confirm_database.csv', encoding = "ISO-8859-1")
 binFile = pd.get_dummies(df, columns = ['Reward Program', 'Charge or Credit Card?'])
-#df = df.drop(['Reward Program', 'Charge or Credit Card?'], axis=1)
+# df = df.drop(['Reward Program', 'Charge or Credit Card?'], axis=1)
+
+# first input from user
+# input string is 'input_string'
+
+#input_string = input('Which Reward Program appeals to you more?')
+#
+#df_rewards = df.loc[df['Reward Program' +'_'+ input_string] == 1 ]
+
+
+
+
 #df['Sign-Up Bonus'] = df['Sign-Up Bonus'].str.replace(',', '')
 #df['Sign-Up Bonus'] = pd.to_numeric(df['Sign-Up Bonus'], errors='coerce')
 #df.loc[df['Sign-Up Bonus'] > 0, 'Sign-Up Bonus Bin'] = 1
